@@ -1,0 +1,165 @@
+
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: medium;
+    color: #40514E;
+    
+}
+
+h1{
+    color: #66BFBF;
+    font-size: 40px;
+    margin: 40px auto 0 auto;
+    line-height: 2;
+    /* font-family: 'Nerko One', cursive; */
+    font-family: 'Sacramento', cursive;
+}
+.Bio {
+    color: #66BFBF;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: x-large;
+}
+
+h3{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    margin: 35px auto 35px auto;
+    font-size: 18px;
+}
+
+.get-n-t{
+    width: 60%;
+    margin: auto;
+}
+
+
+
+.top-container{
+    background-color: #eaf6f6;
+    position: relative;
+    padding-top: 90px;
+
+}
+
+.middle-container{
+    background-color: #ffdfea;
+    
+}
+
+.abc{
+    color: #66BFBF;
+}
+
+.abc:hover{
+    color: #66BFBF;
+    text-decoration: none;
+}
+
+.profile-img{
+    padding-top: 37px;
+
+}
+
+.profile-bio{
+    width: 50%;
+    margin: auto;
+    padding-top: 58px;
+    
+}
+
+.hello{
+
+    padding-top:40px;
+}
+
+
+.skill-row{
+    width: 52%;
+    margin: 0px auto 150px auto;
+    text-align: left;
+    line-height: 1.5;
+} 
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    width: 5%;
+    border-color: #1b9999;
+    margin: 80px auto 80px auto;
+}
+
+.top-cloud{
+    position: relative;
+    margin-left: 299px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    margin-top: 22px;
+    margin-left: 28px;
+}
+
+.Chillies-png{
+    float: right;
+    margin-left: 24px;
+    padding-top: 10px;
+    width: 23%;
+}
+
+.Computer-img{
+    float: left;
+    margin-right: 30px;
+    width: 24%;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+
+#btn{
+    margin: 50px auto;
+}
+
+#btn:hover{
+   background-color: #66BFBF;
+}
+
+.bottom-container{
+    background-color: #66bfbf;
+    height: 100px;
+}
+.footer-link{
+    margin: 20px 20px 20px 20px;
+    /* color: #3f72af; */
+    color: #323232;
+}
+
+.footer-link:hover{
+    color: #126d6d;
+}
+.footer-p{
+    margin: 18px auto 0px auto;
+    color: #eaf6f6;
+    font-size: 0.75rem;
+}
+
+.footer-link:hover{
+    text-decoration: none;
+}
+
+/* .code-skill-desc{
+    clear: left;
+}
+
+.chilli-skill-desc{
+    clear: right;
+} */
